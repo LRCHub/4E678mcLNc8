@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Jellyfish",
+  "base_artist": "Yunomi",
+  "createdAt": "2025-12-07T06:33:51.277088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jellyfish",
+      "artist": "Ghostface Killah",
+      "has_synced": true,
+      "path": "select/01_Jellyfish_Ghostface_Killah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/02_Superfast_Jellyfish_(feat._Gruff_Rhys_and_De_La_Soul)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish (feat. Gruff Rhys & De La Soul)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Superfast_Jellyfish_(feat._Gruff_Rhys_&_De_La_Soul)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_Superfast_Jellyfish_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
+      "artist": "Gorillaz, Gruff Rhys",
+      "has_synced": true,
+      "path": "select/05_Superfast_Jellyfish_(feat._Gruff_Rhys_and_De_La_Soul)_Gorillaz,_Gruff_Rhys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jellyfish",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/06_Jellyfish_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jellyfish",
+      "artist": "The String Cheese Incident",
+      "has_synced": false,
+      "path": "select/07_Jellyfish_The_String_Cheese_Incident.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jellyfish",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/08_Jellyfish_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jellyfish",
+      "artist": "Ghostface Killah feat. Theodore Unit, Capadonna, Shawn Wigs & Trife",
+      "has_synced": true,
+      "path": "select/09_Jellyfish_Ghostface_Killah_feat._Theodore_Unit,_Capadonna,_Shawn_Wigs_&_Trife.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jellyfish (feat. Theodore Unit (Cappadonna, Shawn Wigs & Trife Diesel))",
+      "artist": "Ghostface Killah",
+      "has_synced": true,
+      "path": "select/10_Jellyfish_(feat._Theodore_Unit_(Cappadonna,_Shawn_Wigs_&_Trife_Diesel))_Ghostface_Killah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
+      "artist": "Gorillaz feat. Gruff Rhys & De La Soul",
+      "has_synced": true,
+      "path": "select/11_Superfast_Jellyfish_(feat._Gruff_Rhys_and_De_La_Soul)_Gorillaz_feat._Gruff_Rhys_&_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish (feat. De La Soul & Gruff Rhys)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/12_Superfast_Jellyfish_(feat._De_La_Soul_&_Gruff_Rhys)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Superfast Jellyfish",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/13_Superfast_Jellyfish_Gorillaz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jellyfish (feat. Roller Girl)",
+      "artist": "Yunomi",
+      "has_synced": false,
+      "path": "select/pl_01_Jellyfish_(feat._Roller_Girl)_Yunomi.txt"
+    }
+  ]
+}
